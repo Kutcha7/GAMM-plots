@@ -2,6 +2,7 @@
 
 # Script to plot individual GAM models and also plot any interactions
 
+### hello tim
 
 # librarys----
 detach("package:plyr", unload=TRUE)#will error - no worries
